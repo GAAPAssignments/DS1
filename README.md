@@ -1,2 +1,2 @@
-DS1 - Data Scientists Toolbox course.
+DS1 - Data Scientist's Toolbox course.
 ===
